@@ -1,0 +1,6 @@
+tsc --version
+tsc --init // creates tsconfig.json
+tsc --project tsconfig.json
+
+compilerOptions "outDir": "./output"
+"include": ["script.ts"],
